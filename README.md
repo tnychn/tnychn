@@ -5,13 +5,13 @@
 <p align="center">
   <img src="https://badgen.net/badge/as/student/cyan">
   <img src="https://badgen.net/badge/as/programmer/blue">
-  <img src="https://badgen.net/badge/from/%F0%9F%87%AD%F0%9F%87%B0Hong%20Kong/black">
+  <img src="https://badgen.net/badge/from/%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong/black">
 </p>
 
 I'm a high school student from Hong Kong.
 I've been coding as a hobby since middle school.
 I like developing all kinds of things as long as they are cool and interesting.
-Other than that, I like listening to music and watching movies & anime!
+Other than that, I also like listening to music and watching movies & anime!
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square">
@@ -51,3 +51,11 @@ Other than that, I like listening to music and watching movies & anime!
     <td>Manage your notes & tasks in a tidy and fancy way. A taskbook clone written in Python.</td>
   </tr>
 </tbody></table>
+
+---
+
+<h5 align="center">My Active Projects</h5>
+
+<p align="center">
+  <img width="5%" src="https://cdn1.iconfinder.com/data/icons/different-arrows/512/arrow_arrows_down_line_scroll_-512.png">
+</p>
