@@ -26,12 +26,25 @@ Other than that, I like listening to music and watching movies & anime!
 
 ---
 
+### WIP Projects
+
+<table><tbody>
+  <tr>
+    <td><strong>:rocket: instareaper</strong></td>
+    <td>A fast and lightweight Instagram media downloader.</td>
+  </tr>
+  <tr>
+    <td><strong>:bee: beehive</strong></td>
+    <td>A DHT search aggregator for magnet links with a web frontend included.</td>
+  </tr>
+</tbody></table>
+
 ### Archived Projects
 
 <table><tbody>
   <tr>
     <td><strong>:arrow_forward: gotube</strong></td>
-    <td>A Go library (and command-line utility) for retrieving and downloading YouTube video information, streams & captions.</td>
+    <td>A Go library (and command-line utility) for fetching YouTube videos.</td>
   </tr>
   <tr>
     <td><strong>:notebook: noteboard</strong></td>
