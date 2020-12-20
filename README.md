@@ -57,5 +57,5 @@ Other than that, I also like listening to music and watching movies & anime!
 <h5 align="center">My Active Projects</h5>
 
 <p align="center">
-  <img width="5%" src="https://cdn1.iconfinder.com/data/icons/different-arrows/512/arrow_arrows_down_line_scroll_-512.png">
+  <img width="5%" src="https://content.invisioncic.com/p289038/monthly_2020_04/arrow-down.gif.c819a92ab7162c828e944727a545dcd7.gif">
 </p>
