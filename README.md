@@ -1,6 +1,6 @@
 <h3 align="center">Hey :wave: I'm Tony Chan</h3>
 
-<h4 align="center"><pre>$ echo "Hello World"_</pre></h4>
+<h4 align="center"><pre>$ echo "Hello World"▌</pre></h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-student-cyan">
