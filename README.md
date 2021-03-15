@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/-%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-white">
 </p>
 
-I'm a high school student from Hong Kong.
-I've been coding as a hobby since middle school.
-I like developing all kinds of things as long as they are cool and interesting.
-Other than that, I also like listening to music and watching movies & anime!
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-black?logo=python&style=flat-square">
   <img src="https://img.shields.io/badge/-Go-black?logo=go&style=flat-square">
