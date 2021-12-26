@@ -1,11 +1,11 @@
-<h3 align="center">Hey :wave: I'm Tony Chan</h3>
+<h3 align="center">Hi :wave: I'm Tony Chan</h3>
 
 <h4 align="center"><pre>$ echo "Hello World"▌</pre></h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-student-cyan">
   <img src="https://img.shields.io/badge/hobbyist-programmer-blue">
-  <img src="https://img.shields.io/badge/-%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-white">
+  <img src="https://img.shields.io/badge/-%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-black">
 </p>
 
 <p align="center">
@@ -25,12 +25,24 @@
 
 <table><tbody>
   <tr>
-    <td><strong>:rocket: instareaper</strong></td>
-    <td>A fast and lightweight Instagram media downloader.</td>
+    <td><strong><strike>instareaper</strike></strong></td>
+    <td><strike>A fast and lightweight Instagram media downloader.</strike></td>
+  </tr>
+  <tr>
+    <td><strong>:rocket: instadlx</strong></td>
+    <td>The ultimate browser extension for downloading media from Instagram.</td>
   </tr>
   <tr>
     <td><strong>:bee: beehive</strong></td>
     <td>A DHT search aggregator for magnet links with a web frontend included.</td>
+  </tr>
+  <tr>
+    <td><strong>:penguin: kingula</strong></td>
+    <td>The almighty project template scaffolder powered by Go templates.</td>
+  </tr>
+  <tr>
+    <td><strong>:superhero_man: champort</strong></td>
+    <td>Automagically load champion builds from various sites into League of Legends.</td>
   </tr>
 </tbody></table>
 
