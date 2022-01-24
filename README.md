@@ -3,9 +3,9 @@
 <h4 align="center"><pre>$ echo "Hello World"▌</pre></h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-student-cyan">
-  <img src="https://img.shields.io/badge/hobbyist-programmer-blue">
-  <img src="https://img.shields.io/badge/-%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong-black">
+  <img src="https://img.shields.io/badge/-Student-2e2e2e">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-2e2e2e">
+  <img src="https://img.shields.io/badge/-Made%20in%20Hong%20Kong%20🇭🇰-454545">
 </p>
 
 <p align="center">
