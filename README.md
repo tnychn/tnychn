@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Student-2e2e2e">
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-2e2e2e">
-  <img src="https://img.shields.io/badge/-Made%20in%20Hong%20Kong%20🇭🇰-454545">
+  <img src="https://img.shields.io/badge/-Hong%20Kong%20🇭🇰-454545">
 </p>
 
 <p align="center">
@@ -33,11 +33,7 @@
     <td>The ultimate browser extension for downloading media from Instagram.</td>
   </tr>
   <tr>
-    <td><strong>:bee: beehive</strong></td>
-    <td>A DHT search aggregator for magnet links with a web frontend included.</td>
-  </tr>
-  <tr>
-    <td><strong>:penguin: kingula</strong></td>
+    <td><strong>:penguin: upgen</strong></td>
     <td>The almighty project template scaffolder powered by Go templates.</td>
   </tr>
   <tr>
