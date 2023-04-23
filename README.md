@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/-Go-black?logo=go&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB&style=flat-square">
+  <img src="https://img.shields.io/badge/-Go-black?logo=go&logoColor=00ADD8&style=flat-square">
   <img src="https://img.shields.io/badge/-Rust-black?logo=rust&style=flat-square">
-  <img src="https://img.shields.io/badge/-Elixir-black?logo=elixir&style=flat-square">
+  <img src="https://img.shields.io/badge/-Elixir-black?logo=elixir&logoColor=4B275F&style=flat-square">
   <br />
   <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat-square">
   <img src="https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=flat-square">
